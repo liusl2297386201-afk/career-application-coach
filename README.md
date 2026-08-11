@@ -2,9 +2,15 @@
 求职小助手是一款面向求职场景的Skill，可直接部署到codex中进行使用，帮助用户完成简历审计、岗位 JD 匹配、投递判断、经历深挖、简历改写、STAR 面试准备、作品集规划及近期求职行动建议。它尤其适合游戏发行、内容运营、社区运营、达人营销、主播合作及项目运营等岗位。 与只会罗列关键词或机械压缩简历的工具不同，它坚持以真实经历为边界：不编造数据、职责、预算、ROI 或项目成果，也不会把“简历没写清”误判为“没有做过”。当用户同时提供简历和 JD 时，它会先输出完整的 v0 申请分析，再通过少量高价值追问补强证据，并迭代为 v1、v2。它会保留经历中原有的指标、平台、协作者、交付物、机制和结果，让改写真正提升岗位竞争力。
 
 该skill的开发参考了各位大佬的idea，在此非常感谢各位大佬的开源skill资源：
+
 GitHub：
+
 1、resume-optimizer：https://github.com/wyh0626/resume-optimizer
+
 小红书Redskill--作者/博主：
+
 1、Career-planning：还是yutong
+
 2、job-application-workflow：莉至
+
 3、coconut-job-archive-builder：椰子壳
