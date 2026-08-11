@@ -1,0 +1,4 @@
+interface:
+  display_name: "求职小助手"
+  short_description: "Evidence-first career and application guidance."
+  default_prompt: "Use $career-application-coach to assess my resume, target role, and next best action."
